@@ -1,5 +1,9 @@
 # Chirk Castle — DC Motor Driver H-Bridge (Quick Start)
 
+
+<img src="chirkcastlerender.png" width="50%" height="50%">
+
+
 **Designer/Manufacturer:** TerrainTronics.com  
 **Board size:** ~18 mm × 14 mm (17.8 × 13.4 mm)  
 **Connectors:** 0.1″ header holes or large solder-pads  
