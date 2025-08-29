@@ -2,8 +2,9 @@
 
 A very small, 0.1″-header friendly DC motor driver for hobby projects.
 
-![Render of the Chirk Castle board](chirkcastlerender.png "Render of the Chirk Castle board")
+<img src="chirkcastlerender.png" width="50%" height="50%">
 
+![Render of the Chirk Castle board](chirkcastlerender.png "Render of the Chirk Castle board")
 - **Designer/Manufacturer:** TerrainTronics.com
 - **Board size:** ~18 mm × 14 mm (17.8 × 13.4 mm); **no mounting holes**
 - **Connectors:** 0.1″ header holes or large solder-pads
